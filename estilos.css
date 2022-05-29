@@ -1,19 +1,33 @@
 body
 {
-    color: rgb(244, 9, 157);
+    color:darkblue
     text-align: center;
-    font-family: Verdana;
+    font-family: Arial;
 }
 #container
 {
-    width: 70%;
-    padding: 1em;
-    text-align: right;
-    border: 1px aqua solid;
-    margin: 0%;
+    width: 90%;
+    padding: 2em;
+    text-align: center;
+    border: 10px aqua solid;
+    margin: 2%;
 
 }
 #container h1
-{ font-size: 200px;
+{ font-size: 100px;
 
-}
+}body {
+    heigh:665px;
+    background-color: rgb(251, 251, 251);
+    background-size: 10rem;
+    
+  }.boton {
+    border: 1px solid #05b443; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #22e8e1; /*color botón*/
+    color: #1d1a1a; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }
