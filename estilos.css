@@ -1,6 +1,6 @@
 body
 {
-    color:rgb(217, 33, 208)
+    color:rgb(207, 20, 95)
     text-align: center;
     font-family: Arial;
 }
@@ -9,9 +9,8 @@ body
     width: 90%;
     padding: 2em;
     text-align: center;
-    border: 10px aqua solid;
+    border: 10px rgb(255, 0, 217) solid;
     margin: 2%;
-
 }
 #container h1
 { font-size: 100px;
@@ -21,7 +20,7 @@ body
     background-color: rgb(251, 251, 251);
     background-size: 10rem;
     
-  }.boton {
+  }.boton{
     border: 1px solid #05b443; /*anchura, estilo y color borde*/
     padding: 10px; /*espacio alrededor texto*/
     background-color: #22e8e1; /*color botón*/
